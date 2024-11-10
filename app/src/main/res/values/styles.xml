@@ -1,0 +1,16 @@
+<resources>
+    <style name="MenuItemStyle">
+        <item name="android:textColor">@color/menu_text_color</item>
+        <item name="android:background">@color/menu_item_background</item>
+    </style>
+
+    <style name="ContextMenuItemStyle">
+        <item name="android:textColor">@color/context_menu_text_color</item>
+        <item name="android:background">@color/context_menu_item_background</item>
+    </style>
+
+    <style name="PopMenuItemStyle">
+        <item name="android:textColor">@color/popmenu_text_color</item>
+        <item name="android:background">@color/popmenu_item_background</item>
+    </style>
+</resources>
